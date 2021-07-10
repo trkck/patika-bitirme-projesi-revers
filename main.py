@@ -1,4 +1,5 @@
 
+
 #liste elemanlarını tersine çeviren elemanlarından liste olan varsa onlarında yani nested listelerinde
 #elemanlarını da tersine çeviren program
 def rev(l):
